@@ -1,0 +1,14 @@
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\bin\Debug\netcoreapp3.1\win-x86\MenuScrapper.exe
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\bin\Debug\netcoreapp3.1\win-x86\MenuScrapper.deps.json
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\bin\Debug\netcoreapp3.1\win-x86\MenuScrapper.runtimeconfig.json
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\bin\Debug\netcoreapp3.1\win-x86\MenuScrapper.runtimeconfig.dev.json
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\bin\Debug\netcoreapp3.1\win-x86\MenuScrapper.dll
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\bin\Debug\netcoreapp3.1\win-x86\MenuScrapper.pdb
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\bin\Debug\netcoreapp3.1\win-x86\HtmlAgilityPack.dll
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\bin\Debug\netcoreapp3.1\win-x86\System.Xml.XPath.XmlDocument.dll
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\obj\Debug\netcoreapp3.1\win-x86\MenuScrapper.csprojAssemblyReference.cache
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\obj\Debug\netcoreapp3.1\win-x86\MenuScrapper.AssemblyInfoInputs.cache
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\obj\Debug\netcoreapp3.1\win-x86\MenuScrapper.AssemblyInfo.cs
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\obj\Debug\netcoreapp3.1\win-x86\MenuScrapper.csproj.CopyComplete
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\obj\Debug\netcoreapp3.1\win-x86\MenuScrapper.dll
+D:\Programko\C#\hw02\HW02\src\MenuScrapper\obj\Debug\netcoreapp3.1\win-x86\MenuScrapper.pdb
